@@ -1,0 +1,30 @@
+Project Manager
+---------------
+
+	Implemented in PHP and MySQL
+
+Developer Release
+--------------------------
+
+	Allows for users to create a project and keep users up to date
+	Release patches to users in binary form as well as their own distribution system
+	
+	
+Education Release
+-----------------
+
+	Allows for the student to create a project with the following credentials
+		- Due Date
+		- What class the project is for and who assigned it
+	Write notes
+	Warnings via email :: triggered when due dates are closing in
+		- User can set when they want the warnings to appear eg. 1 week before due date.
+	
+Summary
+-------
+
+	The user should be able to create the project page as a private page, but be able to show
+	education personel the information that they need either in person or allow them to use
+	the users/students login details.
+
+	Attractive design, ease of use, high performance and extendable. 
